@@ -1,15 +1,15 @@
 mult.png:Pant Gert A218
 pyth.png:Marina Oleinik E07
-Ruhmajuhatajatund:Marina Oleinik E07
-Inglise keel Grupp 1:Poskotinova Olga B138
-Inglise keel Grupp 2:Zestjakova Ellina B148
-Operatsioonisusteemide alused:Shkarbanova Lury A243
-Kehaline kasvatus:Maksomiv Maksim Voimla A
-Eesti keel Grupp 1:Peetrimagi Irina B226
-Eesti keel Grupp 2:Ojamae Olesja B234
-Ajalugu, inimgeograafia:Speek Mari B238
-Andmebaasisusteemide alused:Merkulova Irina E10
-Kunstiained:Norkevits Aleksandra B232
-Keel ja kirjandus:Mihhailova Ljudmila B221
-Matemaatika:Voronova Nadezda B133
-Suhtlemine ja klienditeenindus:Schumann Sirje B003
+ruh.png:Marina Oleinik E07
+eng.png:Poskotinova Olga B138
+eng2.png:Zestjakova Ellina B148
+op.png:Shkarbanova Lury A243
+keh.gif:Maksomiv Maksim Voimla A
+est.png:Peetrimagi Irina B226
+est2.png:Ojamae Olesja B234
+aja.png:Speek Mari B238
+and.gif:Merkulova Irina E10
+kunst.png:Norkevits Aleksandra B232
+keel.png:Mihhailova Ljudmila B221
+mat.png:Voronova Nadezda B133
+suh.png:Schumann Sirje B003
